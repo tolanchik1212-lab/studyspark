@@ -1,5 +1,3 @@
-
-19:10
 StudySpark — AI Tools for Students
 
 A responsive landing page showcasing five AI tools that can help students learn, research, and organize their studies.
